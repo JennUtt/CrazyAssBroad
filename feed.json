@@ -11,30 +11,18 @@
     },
     "items": [
         {
-            "id": "http://crazyassbroad.com/kaya-comes-home.html",
-            "url": "http://crazyassbroad.com/kaya-comes-home.html",
-            "title": "Kaya Comes Home",
-            "content_html": "You didn't come so I went back.",
+            "id": "http://crazyassbroad.com/introduction.html",
+            "url": "http://crazyassbroad.com/introduction.html",
+            "title": "Introduction",
+            "content_html": "<p>Thank you for coming to my website. I appreciate that you took the time to read something that could be meaningless (yet entertraining) or useful in your everyday lives.</p>\n<p>Remember the butterfly effect (Chaos Theory): Something as small as the flutter of a butterfly's wings, can ultimately cause a typhoon halfway across the world.&nbsp;</p>\n<p>This is my attempt to have some sort of positive energy sent out to our virtual world.&nbsp;</p>\n<p>Enjoy!&nbsp;</p>",
+            "image": "http://crazyassbroad.com/media/posts/3/pic2.jpg",
             "author": {
                 "name": "Jenn"
             },
             "tags": [
             ],
-            "date_published": "2017-12-03T14:05:36-05:00",
-            "date_modified": "2017-12-03T14:05:36-05:00"
-        },
-        {
-            "id": "http://crazyassbroad.com/kaya-goes-to-the-park.html",
-            "url": "http://crazyassbroad.com/kaya-goes-to-the-park.html",
-            "title": "Kaya Goes to the Park",
-            "content_html": "<p>Hello!</p>\n<p>Come to the park with me and play!</p>",
-            "author": {
-                "name": "Jenn"
-            },
-            "tags": [
-            ],
-            "date_published": "2017-12-03T13:15:02-05:00",
-            "date_modified": "2017-12-03T13:15:11-05:00"
+            "date_published": "2017-12-03T15:48:04-05:00",
+            "date_modified": "2017-12-03T15:48:04-05:00"
         }
     ]
 }
