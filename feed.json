@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "kayas-walks",
+    "description": "",
+    "home_page_url": "http://crazyassbroad.com",
+    "feed_url": "http://crazyassbroad.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kaya"
+    },
+    "items": [
+        {
+            "id": "http://crazyassbroad.com/kaya-goes-to-the-park.html",
+            "url": "http://crazyassbroad.com/kaya-goes-to-the-park.html",
+            "title": "Kaya Goes to the Park",
+            "content_html": "<p>Hello!</p>\n<p>Come to the park with me and play!</p>",
+            "author": {
+                "name": "Kaya"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-12-03T13:15:02-05:00",
+            "date_modified": "2017-12-03T13:15:11-05:00"
+        }
+    ]
+}
