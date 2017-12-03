@@ -1,12 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "kayas-walks",
+    "title": "crazy-ass-broad",
     "description": "",
     "home_page_url": "http://crazyassbroad.com",
     "feed_url": "http://crazyassbroad.com/feed.json",
     "user_comment": "",
+    "icon": "http://crazyassbroad.com/media/website/pic1.jpg",
     "author": {
-        "name": "Kaya"
+        "name": "Jenn"
     },
     "items": [
         {
@@ -15,7 +16,7 @@
             "title": "Kaya Comes Home",
             "content_html": "You didn't come so I went back.",
             "author": {
-                "name": "Kaya"
+                "name": "Jenn"
             },
             "tags": [
             ],
@@ -28,7 +29,7 @@
             "title": "Kaya Goes to the Park",
             "content_html": "<p>Hello!</p>\n<p>Come to the park with me and play!</p>",
             "author": {
-                "name": "Kaya"
+                "name": "Jenn"
             },
             "tags": [
             ],
