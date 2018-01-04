@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "http://crazyassbroad.com/quote-of-the-day.html",
+            "url": "http://crazyassbroad.com/quote-of-the-day.html",
+            "title": "Quote of the Day ",
+            "content_html": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment. Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship. What we think, we become. Three things cannot be long hidden: the sun, the moon, and the truth.",
+            "image": "http://crazyassbroad.com/media/posts/9/pic14.jpg",
+            "author": {
+                "name": "Jenn"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-01-03T21:02:04-05:00",
+            "date_modified": "2018-01-03T21:03:20-05:00"
+        },
+        {
             "id": "http://crazyassbroad.com/day-three-starts-at-midnight.html",
             "url": "http://crazyassbroad.com/day-three-starts-at-midnight.html",
             "title": "Day Three Starts at Midnight...",

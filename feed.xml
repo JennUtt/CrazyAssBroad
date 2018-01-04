@@ -3,12 +3,29 @@
     <title>crazy-ass-broad</title>
     <link href="http://crazyassbroad.com/feed.xml" rel="self" />
     <link href="http://crazyassbroad.com" />
-    <updated>2018-01-03T00:01:12-05:00</updated>
+    <updated>2018-01-03T21:03:33-05:00</updated>
     <author>
         <name>Jenn</name>
     </author>
     <id>http://crazyassbroad.com</id>
 
+    <entry>
+        <title>Quote of the Day </title>
+        <author>
+            <name>Jenn</name>
+        </author>
+        <link href="http://crazyassbroad.com/quote-of-the-day.html"/>
+        <id>http://crazyassbroad.com/quote-of-the-day.html</id>
+
+        <updated>2018-01-03T21:03:20-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://crazyassbroad.com/media/posts/9/pic14.jpg" alt="" />
+                Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment. Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship. What we think, we become. Three things cannot be long hidden: the sun, the moon, and the truth.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Day Three Starts at Midnight...</title>
         <author>
