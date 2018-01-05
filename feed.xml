@@ -3,12 +3,29 @@
     <title>crazy-ass-broad</title>
     <link href="http://crazyassbroad.com/feed.xml" rel="self" />
     <link href="http://crazyassbroad.com" />
-    <updated>2018-01-03T21:03:33-05:00</updated>
+    <updated>2018-01-04T20:39:08-05:00</updated>
     <author>
         <name>Jenn</name>
     </author>
     <id>http://crazyassbroad.com</id>
 
+    <entry>
+        <title>SNOW DAY! </title>
+        <author>
+            <name>Jenn</name>
+        </author>
+        <link href="http://crazyassbroad.com/snow-day.html"/>
+        <id>http://crazyassbroad.com/snow-day.html</id>
+
+        <updated>2018-01-04T20:38:50-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://crazyassbroad.com/media/posts/10/viber-image.jpg" alt="" />
+                <img src="http://crazyassbroad.com/media/posts/10/pic22.jpg" alt="" width="625" height="468">
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Quote of the Day </title>
         <author>
@@ -17,7 +34,7 @@
         <link href="http://crazyassbroad.com/quote-of-the-day.html"/>
         <id>http://crazyassbroad.com/quote-of-the-day.html</id>
 
-        <updated>2018-01-03T21:03:20-05:00</updated>
+        <updated>2018-01-03T21:04:55-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
