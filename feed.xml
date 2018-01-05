@@ -3,12 +3,33 @@
     <title>crazy-ass-broad</title>
     <link href="http://crazyassbroad.com/feed.xml" rel="self" />
     <link href="http://crazyassbroad.com" />
-    <updated>2018-01-04T20:39:08-05:00</updated>
+    <updated>2018-01-04T20:46:20-05:00</updated>
     <author>
         <name>Jenn</name>
     </author>
     <id>http://crazyassbroad.com</id>
 
+    <entry>
+        <title>Quote of the Day </title>
+        <author>
+            <name>Jenn</name>
+        </author>
+        <link href="http://crazyassbroad.com/quote-of-the-day-2.html"/>
+        <id>http://crazyassbroad.com/quote-of-the-day-2.html</id>
+
+        <updated>2018-01-04T20:45:07-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://crazyassbroad.com/media/posts/11/pic22.jpg" alt="" />
+                <p>Mood: Blah</p>
+<p>Weather: COLD!!! High 28/Low 8</p>
+<p>Goal for the Day: Shoveling Snow&nbsp;</p>
+<p>Quote of the Day:&nbsp;</p>
+<p><img src="http://crazyassbroad.com/media/posts/11/pic23.jpg" alt="" width="900" height="644"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>SNOW DAY! </title>
         <author>
