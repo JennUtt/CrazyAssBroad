@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "http://crazyassbroad.com/day-5.html",
+            "url": "http://crazyassbroad.com/day-5.html",
+            "title": "Day 5 Post... Not really inspiring... ",
+            "content_html": "<div>\n<p><img src=\"http://crazyassbroad.com/media/posts/12/comic.gif\" alt=\"\" width=\"600\" height=\"398\"></p>\n\n<p>Mood:&nbsp;Content</p>\n<p>Weather: COLD!!! High 14/Low -3 and WINDY AS HELL</p>\n<p>Goal for the Day: Rest..Feeling a cold knocking on my window or maybe that's the wind from the \"Bomb Cyclone\" we experienced over the last 24 hours.&nbsp;</p>\n</div>\n<p>Quote of the day from a good friend (You know who you are): We know the right words are oxygen, that dead English polluted our minds every day. Those combinations of words don&rsquo;t last forever, but ugly words and phrases linger in the vocabulary. They&rsquo;re picked up and passed on like a virus by the unwary and by the pretentious who like to give the &ldquo;appearance of solidity to pure wind.(Orwell)&rdquo; - Harold Evans</p>",
+            "image": "http://crazyassbroad.com/media/posts/12/pic11.jpg",
+            "author": {
+                "name": "Jenn"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-01-05T21:16:55-05:00",
+            "date_modified": "2018-01-05T21:47:35-05:00"
+        },
+        {
             "id": "http://crazyassbroad.com/quote-of-the-day-2.html",
             "url": "http://crazyassbroad.com/quote-of-the-day-2.html",
             "title": "Quote of the Day ",
